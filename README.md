@@ -76,10 +76,9 @@ I'm a 3rd-year **Physics & Programming** student at Belarusian State University,
 
 <div align="center">
 
-"Do not use your energy to worry. Use your energy to believe, to create, to learn, to think and to grow.
+"Do not use your energy to worry. Use your energy to believe, to create, to learn, to think and to grow."
 
 -Professor Richard Feynaman
-"
 
 </div>
 
