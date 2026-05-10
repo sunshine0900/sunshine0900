@@ -74,17 +74,6 @@ I'm a 3rd-year **Physics & Programming** student at Belarusian State University,
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunshine0900&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunshine0900&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 
 *"Do not use your energy to worry. Use your energy to believe, to create, to learn, to think and to grow.
