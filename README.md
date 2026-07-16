@@ -1,13 +1,12 @@
 
 ## 👩‍🔬 About Me
 
-I'm a 3rd-year **Physics & Programming** student at Belarusian State University, the Department of Optics. 
+I'm a 4rd-year **Physics & Programming** student at Belarusian State University, the Department of Optics. 
 
-- 🎓 Currently writing my coursework: predicting optical thin-film coating properties with an MLP
-- 🔭 Interested in **neural networks**, **computer vision**, and **scientific computing**
+- 🎓 Recently completed my coursework project: predicting optical thin-film coating properties with an MLP
+- 🔭 Interested in **neural networks**, and **scientific computing**
 - 🧠 Strong math background: linear algebra, differential equations, functional analysis, mathematical physics, probability theory
 - 🐍 Main language: **Python** | also used **Wolfram Mathematica** for computer algebra
-- 🌱 Next: building a web app for sports betting coefficient monitoring (FastAPI + React + scraping)
 
 ---
 
